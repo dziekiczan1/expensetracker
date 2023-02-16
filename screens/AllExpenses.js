@@ -4,4 +4,4 @@ function AllExpenses() {
   return <ExpensesOutput expensesPeriod="Total" />;
 }
 
-export default AllExpenses();
+export default AllExpenses;
