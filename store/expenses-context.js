@@ -24,6 +24,10 @@ function ExpensesContextProvider({ children }) {
     dispatch({ type: "ADD", payload: expenseData });
   }
 
+  function deleteExpense(id) {
+    dispatch({ type: "DELETE", payload: id });
+  }
+
   return <ExpensesContext.Provider>{children}</ExpensesContext.Provider>;
 }
 
