@@ -2,7 +2,7 @@
 
 ![ExpenseTrackerApp](https://piotr.rzadkowolski.dev/assets/mobile/proj3a.webp)
 ![ExpenseTrackerApp](https://piotr.rzadkowolski.dev/assets/mobile/proj3b.webp)
-![ExpenseTrackerApp](https://piotr.rzadkowolski.dev/assets/mobile/pro.webp)
+![ExpenseTrackerApp](https://piotr.rzadkowolski.dev/assets/mobile/proj3c.webp)
 
 ## Introduction
 This is a code repository for the **Expense Tracker App** project
