@@ -1,7 +1,7 @@
 # Expense Tracker App
 
 ![ExpenseTrackerApp](https://piotr.rzadkowolski.dev/assets/mobile/proj3a.webp)
-![ExpenseTrackerApp](https://piotr.rzadkowolski.dev/assets/mobile/pro.webp)
+![ExpenseTrackerApp](https://piotr.rzadkowolski.dev/assets/mobile/proj3b.webp)
 ![ExpenseTrackerApp](https://piotr.rzadkowolski.dev/assets/mobile/pro.webp)
 
 ## Introduction
