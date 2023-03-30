@@ -7,9 +7,9 @@
 ## Introduction
 This is a code repository for the **Expense Tracker App** project
 
-// DESCRIPTION //
+A simple React Native application that tracks your expenses. User can add / edit and delete expenses. App is using Context for state managment.
 
-Stack used for this project: React Native, Redux Toolkit
+Stack used for this project: React Native, Context
 Operating systems: Android and iOS
 
 ## Setup
